@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="13061419-2d28-4754-9895-6442891be518" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Python-Exercises/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python-Exercises/.idea/Python.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python-Exercises/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python-Exercises/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python-Exercises/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-Exercises/ex005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-Lessons/aulas001.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-Exercises/ex0004.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Exercises/ex004.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +22,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="29MeCZxE6fRKXPWtBDwrGb079B7" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -43,5 +46,16 @@
       <updated>1652927254938</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
