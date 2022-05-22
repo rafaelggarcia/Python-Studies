@@ -2,3 +2,6 @@ n1 = int(input('Digite um número: '))
 n2 = int(input('Digite outro: '))
 s = n1 + n2
 print(f'A soma do número {n1} com o número {n2} é {s}')
+
+
+# a funçao is é usada para devolver true or false (boefefe
