@@ -6,3 +6,6 @@ if a < b * c and b < a + c and c < a + b:
     print('Os seguimentos acima podem formar um triângulo!')
 else:
     print('Os seguimentos acima não formam um triângulo!')
+
+
+print(3 * 5 + 4 ** 2)
