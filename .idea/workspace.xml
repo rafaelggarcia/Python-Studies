@@ -5,19 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13061419-2d28-4754-9895-6442891be518" name="Changes" comment="Update">
-      <change afterPath="$PROJECT_DIR$/Python-Exercises/ex036.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Exercises/ex037.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Exercises/ex038.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Exercises/ex039.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Exercises/ex040.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Exercises/ex041.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Exercises/ex042.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Exercises/ex043.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Exercises/ex044.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Exercises/ex045.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-Exercises/ex046.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-Exercises/ex047.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-Exercises/ex048.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-Exercises/ex049.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-Exercises/ex050.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-Exercises/ex051.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-Exercises/ex052.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-Exercises/ex053.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-Exercises/ex054.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-Exercises/ex055.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-Exercises/ex056.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-Exercises/ex057.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-Exercises/ex058.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-Exercises/ex059.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-Exercises/ex060.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-Exercises/ex061.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-Exercises/ex062.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-Exercises/ex063.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-Exercises/ex064.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-Exercises/ex065.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-Lessons/for.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python-Exercises/ex035.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Exercises/ex035.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python-Lessons/aulas001.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Lessons/formataçao.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,8 +69,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.ex045">
-    <configuration name="ex038" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ex065">
+    <configuration name="ex060" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Studies" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -73,7 +82,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-Exercises/ex038.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-Exercises/ex060.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -82,7 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex041" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex062" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Studies" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -94,7 +103,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-Exercises/ex041.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-Exercises/ex062.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,7 +112,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex043" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex063" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Studies" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,7 +124,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-Exercises/ex043.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-Exercises/ex063.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex044" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex064" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Studies" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,7 +145,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-Exercises/ex044.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-Exercises/ex064.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,7 +154,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex045" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex065" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Studies" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -157,7 +166,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-Exercises/ex045.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-Exercises/ex065.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ex045" />
-        <item itemvalue="Python.ex044" />
-        <item itemvalue="Python.ex043" />
-        <item itemvalue="Python.ex041" />
-        <item itemvalue="Python.ex038" />
+        <item itemvalue="Python.ex065" />
+        <item itemvalue="Python.ex064" />
+        <item itemvalue="Python.ex063" />
+        <item itemvalue="Python.ex062" />
+        <item itemvalue="Python.ex060" />
       </list>
     </recent_temporary>
   </component>
