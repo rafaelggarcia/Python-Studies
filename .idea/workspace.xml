@@ -4,30 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13061419-2d28-4754-9895-6442891be518" name="Changes" comment="Update">
-      <change afterPath="$PROJECT_DIR$/Python-Exercises/ex046.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Exercises/ex047.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Exercises/ex048.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Exercises/ex049.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Exercises/ex050.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Exercises/ex051.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Exercises/ex052.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Exercises/ex053.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Exercises/ex054.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Exercises/ex055.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Exercises/ex056.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Exercises/ex057.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Exercises/ex058.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Exercises/ex059.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Exercises/ex060.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Exercises/ex061.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Exercises/ex062.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Exercises/ex063.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Exercises/ex064.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Exercises/ex065.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Lessons/for.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="13061419-2d28-4754-9895-6442891be518" name="Changes" comment="Update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
