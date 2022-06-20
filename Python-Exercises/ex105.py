@@ -1,29 +1,39 @@
-def assunto(title, n):
-    from time import sleep
-    if n == 1:
-        texto = title
-        print('\033[30;42m', end='')
-    elif n == 2:
-        texto = f'Acessando o manual do comando "{title}"'
-        print('\033[30;44m', end='')
-    elif n == 3:
-        texto = 'ATÉ LOGO!'
-        print('\033[30;41m', end='')
-    carac = len(texto) + 8
-    print('~' * carac)
-    print(f'    {texto}')
-    print('~' * carac)
-    if n == 2:
-        sleep(1)
-        print('\033[36;40m', end='')
-        help(title)
+def notas(num, sit=False):
+    """
+    -> Função que mostra uma situação geral de notas dos alunos:
+    :param qtdnt: quantidade de notas inseridas;
+    :param maiorn: maior nota inserida;
+    :param menorn: menor nota inserida;
+    :param median: média das notas inseridas;
+    :param sit: situação dos alunos;
+    :return: retorna todos os parametros acima dentro ou não de uma situação
+    """
+    dictnt = dict()
+    dictnt['total'] = len(num)
+    dictnt['maior'] = max(num)
+    dictnt['menor'] = min(num)
+    dictnt['média'] = sum(num)/len(num)
+    print(type(num))
+    if sit:
+        if dictnt['média'] >= 9:
+            dictnt['sit'] = 'ÓTIMA'
+        elif dictnt['média'] >= 7:
+            dictnt['sit'] = 'BOA'
+        elif dictnt['média'] >= 5:
+            dictnt['sit'] = 'REGULAR'
+        else:
+            dictnt['sit'] = 'RUIM'
+    return dictnt
 
 
+nota = list()
+cont = 1
+print('Digite as notas dos alunos!')
 while True:
-    inicio = 'SISTEMA DE AJUDA PyHELP'
-    assunto(inicio, 1)
-    funbibl = str(input('\033[mFunção ou Biblioteca > ')).lower()
-    if funbibl == 'fim':
-        assunto(funbibl, 3)
+    resp = float(input(f'Digite a nota do {cont}º aluno: '))
+    nota.append(resp)
+    d = input('Deseja continuar [S/N]? ')
+    cont+=1
+    if d in 'nN':
         break
-    assunto(funbibl, 2)
+print(notas(nota, sit=True))
