@@ -5,17 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13061419-2d28-4754-9895-6442891be518" name="Changes" comment="Update">
-      <change afterPath="$PROJECT_DIR$/Python-Exercises/ex110.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Exercises/ex111.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Exercises/ex112.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Exercises/ex113.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Exercises/ex114.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Exercises/ex115.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulo110/moeda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulo111/utilidadecev/dado/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulo111/utilidadecev/moeda/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulo112/utilidadecev/dado/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulo112/utilidadecev/moeda/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +48,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="ToolWindowRun.ShowToolbar" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/python" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -215,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655747207256</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Update">
+      <created>1656117978258</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1656117978258</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
